@@ -4,10 +4,10 @@
 
 ## :memo: Week 1: C Basics 
 #### :eyes: Topic Covered:
--What is C? <br>
--Funtion:'printf()', get_strings().<br>
--Escape Sequences: \n, \r, \\, '\, "\ .<br>
--Data Types: int, strings, chat etc.<br>
+-**What is C?** <br>
+-***Funtion:'printf()', get_strings().***<br>
+-*Escape Sequences: \n, \r, \\, '\, "\ .*<br>
+-*Data Types: int, strings, chat etc.*<br>
 -Compiling eith 'make', running with <br>
 --
 ### :mag: File History & Learning 
