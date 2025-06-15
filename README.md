@@ -1,9 +1,8 @@
 # CS50_Harvard-2025_Lecture_code
 :books: This repositoy contains my step by step learning from CS50. [CS50x](https://cs50.harvard.edu/x/2025/).
 
-## :memo: Week 1: C Basics 
-
-### :eyes: Topic Covered:
+### :memo: Week 1: C Basics 
+#### :eyes: Topic Covered
 -What is C?<br>
 -Function: printf(), get_string().<br>
 -Escape Sequences: \n, \r, \\, '\, "\ .<br>
