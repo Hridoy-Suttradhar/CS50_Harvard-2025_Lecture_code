@@ -4,16 +4,16 @@
 
 ## :memo: Week 1: C Basics 
 ### :eyes: Topic Covered:
--What is C? <br>
--Funtion:'printf()', get_strings(). <br>
--Escape Sequences: \n, \r, \\, '\, "\ <br>
--Data Types: int, strings, chat etc.,<br>
--Compiling eith 'make', running with './'
+#### -What is C? <br>
+-Funtion:'printf()', get_strings(). 
+-Escape Sequences: \n, \r, \\, '\, "\ 
+-Data Types: int, strings, chat etc.,
+-Compiling eith 'make', running with 
 --
 ### :mag: File History & Learning 
 --
 ### :brain: Key Learnings
--'Always include the necessary libraries' <br>
+-Always include the necessary libraries <br>
 -Use 'Make filename' to compile (auto runs clang) <br>
 -Understand placeholder: '%s', ;%i', '%c' etc 
 --
