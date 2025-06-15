@@ -3,21 +3,21 @@
 # :books: This repositoy contains my step by step learning from CS50. [CS50x](https://cs50.harvard.edu/x/2025/).
 
 ## :memo: Week 1: C Basics 
---
+---
 ### :eyes: Topic Covered:
--'What is C?' 
--Funtion:'printf()', get_strings().<br>
--Escape Sequences: \n, \r, \\, '\, "\ .<br>
--Data Types: int, strings, chat etc.<br>
--Compiling eith 'make', running with <br>
---
+-What is C?
+-Function: printf(), get_string().
+-Escape Sequences: \n, \r, \\, '\, "\ .
+-Data Types: int, strings, chat etc.
+-Compiling eith 'make', running with './' .
+---
 ### :mag: File History & Learning 
---
+---
 ### :brain: Key Learnings
 -Always include the necessary libraries <br>
 -Use 'Make filename' to compile (auto runs clang) <br>
 -Understand placeholder: '%s', ;%i', '%c' etc 
---
+---
 
 ### question I had
 
