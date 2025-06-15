@@ -14,7 +14,7 @@
 --
 ### :brain: Key Learnings
 -Always include the necessary libraries <br>
-- Use 'Make filename' to compile (auto runs clang) <br>
+-Use 'Make filename' to compile (auto runs clang) <br>
 -Understand placeholder: '%s', ;%i', '%c' etc 
 --
 
