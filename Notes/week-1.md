@@ -9,4 +9,4 @@
 - Introduced '%s' placeholder to print user's name.
 
 ## [05-mario2.c](https://github.com/Hridoy-Suttradhar/CS50_Harvard-2025_Lecture_code/blob/main/week-1/05-mario2.c)
-- Ntoice that one loop is inside another loop. The first loop defines what vertical row is being printed. For each row, three columns are printed.
+- Notice that one loop is inside another loop. The first loop defines what vertical row is being printed. For each row, three columns are printed.
