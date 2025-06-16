@@ -14,9 +14,6 @@
 - Conditionals > Relational operators > Boolean expression > Loop
 - Nested loop
 
-### :mag: File History & Learning 
-- 
-
 ### :brain: Key Learnings
 - Always include the necessary libraries <br>
 - Use 'make filename' to compile (auto runs clang)
@@ -26,8 +23,13 @@
 - '==' ensures that something is equal to something 
 - Think to optimize code (e.g. 03-agree2.c, use logical or ||)
 - When code is repeated over and over, we can use loop for better design
-- The initial `void` in a function declaration means that the function does not return any value, while `(void)` in the parameter list means the function does not accept any parameters.
+- The initial `void` in a function declaration means that the function does not return any value, while `(void)` in the
+parameter list means the function does not accept any parameters.
 - 
+
+## :mang: Description of 
+- One of C's shortcomings is the ese by which it manages memory.While c provides you immense control over how memory is utilized,programmers have to be very pitfalls of memory management.
+
 
 ### Keyboard shortcut
 - Break from an infinite loop by hitting control-C
