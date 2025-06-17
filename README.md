@@ -1,41 +1,43 @@
-# CS50_Harvard-2025_Lecture_code
-:books: This repository contains my step by step learning from CS50. [CS50x](https://cs50.harvard.edu/x/2025/).
+# CS50 Harvard 2025 Lecture Code
+:books: This repository contains my step-by-step learning from CS50. [CS50x](https://cs50.harvard.edu/x/2025/).
 
-## :memo: Week 1: C Basics 
-### Keyword
-- Prototype, Parameterization
+## 📝 Week 1: C Basics
+### Keywords
+- Prototype
+- Parameterization
+- Truncation
 
-### :eyes: Topic Covered:
+### 👀 Topics Covered:
 - What is C?
-- Function: printf(), get_string().
-- Escape Sequences: \n, \r, \\, '\, "\ .
-- Data Types: int, string, char , ***const** etc.
-- Compiling with 'make', running with './' .
-- Conditionals > Relational operators > Boolean expression > Loop
-- Nested loop
+- Functions: `printf()`, `get_string()`
+- Escape Sequences: `\n`, `\r`, `\\`, `\'`, `\"`
+- Data Types: `int`, `string`, `char`, `const`, etc.
+- Compiling with `make`, running with `./`
+- Conditionals > Relational operators > Boolean expressions > Loops
+- Nested loops
 
-### :brain: Key Learnings
-- Always include the necessary libraries <br>
-- Use 'make filename' to compile (auto runs clang)
-- Understand placeholder: '%s', '%i', '%c' etc.
+### 🧠 Key Learnings
+- Always include the necessary libraries
+- Use `make filename` to compile (auto runs clang)
+- Understand placeholders: `%s`, `%i`, `%c`, etc.
 - Use conditionals to make the program take decisions
-- Make code more efficient (e.g. 03-agree1.c)
-- '==' ensures that something is equal to something 
-- Think to optimize code (e.g. 03-agree2.c, use logical or ||)
-- When code is repeated over and over, we can use loop for better design
-- The initial `void` in a function declaration means that the function does not return any value, while `(void)` in the
-parameter list means the function does not accept any parameters.
-- 
+- Make code more efficient (e.g., `03-agree1.c`)
+- `==` ensures that something is equal to something
+- Think to optimize code (e.g., `03-agree2.c`, use logical OR `||`)
+- When code is repeated over and over, use loops for better design
+- The initial `void` in a function declaration means that the function does not return any value, while `(void)` in the parameter list means the function does not accept any parameters.
+- Truncation Message: As you are coding, pay special attention to the types of variables you are using to avoid problems within your code.
 
-## :mang: Description of 
-- One of C's shortcomings is the ese by which it manages memory.While c provides you immense control over how memory is utilized,programmers have to be very pitfalls of memory management.
+## 📝 Description
+- One of C's shortcomings is the ease with which it manages memory. While C provides you immense control over how memory is utilized, programmers have to be wary of the pitfalls of memory management.
+- An integer divided by an integer will always result in an integer in C.
 
+### Keyboard Shortcut
+- Break from an infinite loop by hitting `Ctrl+C`
 
-### Keyboard shortcut
-- Break from an infinite loop by hitting control-C
-
-### Questions I had
+### Questions I Had
 - Why is `const` used?
+- How to evaluate code on three axes: correctness, design, and style
 
-More coming soon as I progress through the course! :computer:
+More coming soon as I progress through the course! 💻
 
