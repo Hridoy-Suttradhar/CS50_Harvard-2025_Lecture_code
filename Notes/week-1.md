@@ -9,7 +9,7 @@
 - Conditionals > Relational operators > Boolean expressions > Loops
 - Nested loops
 
-## 📝 Description
+### 📝 Description
 - One of C's shortcomings is the ease with which it manages memory. While C provides you immense control over how memory is utilized, programmers have to be wary of the pitfalls of memory management.
 - An integer divided by an integer will always result in an integer in C.
 
