@@ -1,12 +1,21 @@
 # week 1 Notes 
 
-##  hello0.c
-- First "Hello, world" Program.
-- Output was weel.
-- Forgot to add '\n' - output didn't move to the nex line.
-- Introduced escape characters like '\n', '\t', '\\'.
-- Tried  using funtion 'get_string()' but forgot to '#include <cs50.h>'.
-- Introduced '%s' placeholder to print user's name.
+### 👀 Topics Covered:
+- What is C?
+- Functions: `printf()`, `get_string()`
+- Escape Sequences: `\n`, `\r`, `\\`, `\'`, `\"`
+- Data Types: `int`, `string`, `char`, `const`, etc.
+- Compiling with `make`, running with `./`
+- Conditionals > Relational operators > Boolean expressions > Loops
+- Nested loops
 
-## [05-mario2.c](https://github.com/Hridoy-Suttradhar/CS50_Harvard-2025_Lecture_code/blob/main/week-1/05-mario2.c)
-- Notice that one loop is inside another loop. The first loop defines what vertical row is being printed. For each row, three columns are printed.
+## 📝 Description
+- One of C's shortcomings is the ease with which it manages memory. While C provides you immense control over how memory is utilized, programmers have to be wary of the pitfalls of memory management.
+- An integer divided by an integer will always result in an integer in C.
+
+### Keyboard Shortcut
+- Break from an infinite loop by hitting `Ctrl+C`
+
+### Questions I Had
+- Why is `const` used?
+- How to evaluate code on three axes: correctness, design, and style
